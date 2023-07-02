@@ -1,0 +1,31 @@
+.boton{
+    background-color: #91c844;
+    border-color: #91c844;
+    color: white;
+}
+.boton_e{
+    background-color:#02993d;
+    border-color:#02993d;
+    color: white;
+}
+footer{
+    background-color: #205373;
+}
+body{
+    overflow-x: hidden;
+}
+.nav_uno{
+    color: white;
+}
+.nav_dos{color: #198754;}
+.nav_uno:hover{
+    color: #198754;
+}
+.nav_dos:hover{
+    color: white;
+}
+.image{filter: brightness(0.5);}
+.tarjeta{
+    max-width: 20rem;
+    border-radius: 0%;
+}
